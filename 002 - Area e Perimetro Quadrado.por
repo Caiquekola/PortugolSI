@@ -8,8 +8,8 @@ programa
 		leia(lado)
 		perimetro = 4*lado
 		area = lado*lado
-		escreva("A área do quadrado é de "+area+"\n")
-		escreva("O perímetro do quadrado é de "+perimetro+"\n"
+		escreva("A área do quadrado é de "+area+" cm2\n")
+		escreva("O perímetro do quadrado é de "+perimetro+" cm2\n"
 		)
 		
 		
